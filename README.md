@@ -1,3 +1,3 @@
-Leonard Euler the master of us all: His work on mathematics is nothing less than a boon to mathematicians of the age. Gamma, Beta functions are just the example to prove his knowledge and the famous value of $\sum_{n\ge1} \frac 1{n^2} = \frac {\pi^2}{6} = \zeta(2)$. Because caterac he developed his intuition and imagination so much to making him able to solve complexed problems in his mind.
-see>> https://projecteuler.net/ we'll find few amazing problems which are like puzzles but not all problems can be sovled with hand calculations 
+Leonard Euler the master of us all: His work in mathematics is nothing less than a boon to mathematicians of the age. Gamma, Beta functions are just the example to prove his knowledge and the famous value of $\sum_{n\ge1} \frac 1{n^2} = \frac {\pi^2}{6} = \zeta(2)$. Because of cataract he developed his intuition and imagination so much making him able to solve complex problems in his mind.
+see>> https://projecteuler.net/ we'll find a few amazing problems which are like puzzles but not all problems can be solved with hand calculations 
 see>> https://www.hackerrank.com/contests/projecteuler/challenges
