@@ -1,3 +1,2 @@
-Leonard Euler the master of us all: His work in mathematics is nothing less than a boon to mathematicians of the age. Gamma, Beta functions are just the example to prove his knowledge and the famous value of $\sum_{n\ge1} \frac 1{n^2} = \frac {\pi^2}{6} = \zeta(2)$. Because of cataract he developed his intuition and imagination so much making him able to solve complex problems in his mind.
-see>> https://projecteuler.net/ we'll find a few amazing problems which are like puzzles but not all problems can be solved with hand calculations 
-see>> https://www.hackerrank.com/contests/projecteuler/challenges
+#ProjectEuler
+Having love for mathematics there is no doubt why someone on earth woulnd't like to try [projecteuler](projecteuler.net) so yes! during those days of learning mathematics I used to solve project euler problems by hand calculation which of course! took me weeks later I started using C but lost all my codes. So, I'll start solving few of problems and will upload codes here.
