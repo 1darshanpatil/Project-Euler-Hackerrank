@@ -1,6 +1,5 @@
 from math import atan, acos, degrees, atan2, sqrt
 from operator import gt, abs
-from operator import abs
 class P_test():
     def __init__(self, x, y, a,b):
         self.x, self.y, self.a, self.b = x, y, a, b
