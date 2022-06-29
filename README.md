@@ -2,18 +2,14 @@
 > Having love for mathematics there is no doubt why someone on earth woulnd't like to try [projecteuler](projecteuler.net) so yes! during those days of learning mathematics I used > to solve project euler problems by hand calculation which of course! took me weeks later I started using C but lost all my codes. So, I'll start solving few of problems and will > upload codes here.
 
 ## You can also find some new updated solutions as I may not always update the Github:
-[//]: [Find My Hackerrank Profile](https://www.hackerrank.com/patildarshan4171)
+
 
 
 [![alt text][image0]][hyperlink0]
+
 [hyperlink0]: https://www.hackerrank.com/results/projecteuler/patildarshan4171
 [image0]: https://user-images.githubusercontent.com/72539638/176411116-cf78d8cc-da07-4c98-96c3-cd93fc480a1c.png
 
-
-
-
-
-![image](https://user-images.githubusercontent.com/72539638/176402662-98e8756a-4ef9-4dc8-8878-33090f4ece41.png)
 
 ## Content
 
